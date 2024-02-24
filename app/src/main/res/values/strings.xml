@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Empwering The Nation</string>
+
+
+        <string name="welcome_title">Welcome To Empowering The Nation!</string>
+        <string name="welcome_description">Join us in our mission to empower individuals through education and skills training.</string>
+
+        <string name="ceo_message_title">A Personal Message from Our CEO</string>
+        <string name="ceo_message_description">Hello there! Im Precious Radebe, and I want to personally welcome you to Empowering the Nation. Its a pleasure to have you on board. As you embark on this journey of learning and growth, remember that your potential knows no limits</string>
+
+        <string name="chatbot_title">Say hello to your new learning companion - our AI Chatbot Tutor!</string>
+        <string name="chatbot_description">Key Features:\n
+        "Available 24/7 to answer your questions."\n
+        "Provides instant guidance and support."\n
+        "Offers personalized course recommendations."</string>
+
+        <string name="discount_title">Unlock Discounts</string>
+        <string name="discount_description">The more courses you select, the more you save. Our commitment to making education affordable for all.</string>
+
+
+</resources>
